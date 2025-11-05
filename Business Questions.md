@@ -17,56 +17,81 @@ Ans:-
 
 3. **Which category of books sells the most copies?**
 Ans:-
+
 <img width="699" height="596" alt="Question3_Output" src="https://github.com/user-attachments/assets/a63dff91-4cd1-46a0-8c68-ebff9d5e7b5e" />
+
 
 4. **Which author or category consistently performs the best in sales?**
 Ans:-
+
 <img width="731" height="453" alt="Question4_Output" src="https://github.com/user-attachments/assets/bbaac0f9-fcee-4c61-81da-5bea3e8bcaf7" />
 
 5. **Which day of the week has the highest sales?**
 Ans:-
+
 <img width="683" height="644" alt="Question5_Output" src="https://github.com/user-attachments/assets/8da7e4f2-d8f8-463d-874d-63b4d8f2c389" />
+
 
 6. **Which year recorded the highest sales?**
 Ans:-
+
 <img width="677" height="490" alt="Question6_Output" src="https://github.com/user-attachments/assets/7fd17374-7253-439a-b3e2-8e2a19befc61" />
+
 
 7. **Which books are out of stock but had high demand?**
 Ans:-
+
 <img width="820" height="524" alt="Question7_Output" src="https://github.com/user-attachments/assets/458dd979-2e02-4fb9-9542-6c0b3cacfca7" />
+
 
 8. **What are the top 5 most expensive books (before discount)?**
 Ans:-
+
 <img width="792" height="571" alt="Question8_Output" src="https://github.com/user-attachments/assets/e78f3bc7-cdab-44b4-b879-76bef1496e47" />
+
 
 9. **Which book ratings generate the highest total revenue?**
 Ans:-
+
 <img width="937" height="503" alt="Question9_Output" src="https://github.com/user-attachments/assets/9b088737-8ca8-4b7e-9476-2aafac3f7cdb" />
+
 
 10. **How does the current month’s revenue compare to the previous month’s revenue (using LAG)?**
 Ans:-
+
 <img width="1086" height="813" alt="Question10_Output" src="https://github.com/user-attachments/assets/5b6e9554-ec08-446e-af23-a4ec2d5c7032" />
+
 
 11. **Which books are the most and least expensive based on their price?**
 Ans:-
+
 <img width="999" height="489" alt="Question11_Output" src="https://github.com/user-attachments/assets/215b70fe-9233-4db7-8e9b-277cd45fc917" />
+
 
 12. **Which categories have generated total revenue above 5000?**
 Ans:-
+
 <img width="773" height="790" alt="Question12_Output" src="https://github.com/user-attachments/assets/b339ae23-528c-4d70-a43b-dcfb6f43ea7c" />
+
 
 13. **Which publisher has the highest total sales?**
 Ans:-
+
 <img width="833" height="771" alt="Question13_Output" src="https://github.com/user-attachments/assets/6fc204f7-e614-4ec3-be28-06396f9c140b" />
+
 
 14. **What is the total revenue generated for each book after applying discounts, along with details such as sales date, publisher, and stock status?**
 Ans:-
+
 <img width="999" height="496" alt="Question14_Output" src="https://github.com/user-attachments/assets/850fa758-5c87-48cd-9c25-9e226ca0bd05" />
+
 
 15. **What books were sold on a specific date, along with their prices and remaining stock?**
 Ans:-
+
 <img width="700" height="610" alt="Question15__Output" src="https://github.com/user-attachments/assets/8247958e-3088-4529-af22-b9d46a5aef4e" />
 <img width="700" height="373" alt="Question15_Output" src="https://github.com/user-attachments/assets/2d9dff8e-e3b3-490c-9005-7f37bc8598d9" />
 
+
 Summary:
-The listed SQL queries and outputs provide clear insights into bookstore sales performance and help in effective data interpretation.
+The Listed SQL queries and their outputs provide valuable insights into the bookstore’s overall sales performance. This analysis highlights top-selling books, best-performing categories, and key revenue trends. By interpreting the results, the project supports data-driven decision-making for better inventory, marketing, and business growth. 📊📚
